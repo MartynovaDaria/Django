@@ -1,0 +1,241 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"u",
+				"urls"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"h",
+				"head\tTag"
+			],
+			[
+				"Co",
+				"Cookies"
+			],
+			[
+				"C",
+				"Content-type"
+			],
+			[
+				"Se",
+				"Set-cookie"
+			],
+			[
+				"coo",
+				"cookie"
+			],
+			[
+				"te",
+				"text2"
+			],
+			[
+				"text",
+				"text1"
+			],
+			[
+				"T",
+				"TEXT_2"
+			],
+			[
+				"for",
+				"form"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/darya/Files/python/django-examples/mysite/mysite/settings.py",
+		"/home/darya/Files/python/django-examples/mysite/mainApp/urls.py",
+		"/home/darya/Files/python/django-examples/mysite/mainApp/templates/mainApp/homePage.html",
+		"/home/darya/Files/python/django-examples/mysite/mainApp/templates/mainApp/wrapper.html",
+		"/home/darya/Files/python/django-examples/mysite/mainApp/templates/mainApp/includes/some_html.html",
+		"/home/darya/Files/python/django-examples/mysite/mysite/urls.py",
+		"/home/darya/Files/python/django-examples/mysite/mainApp/views.py",
+		"/home/darya/Files/python/django-examples/mysite/webexample/urls.py",
+		"/home/darya/Files/python/django-examples/mysite/webexample/admin.py",
+		"/home/darya/Files/python/django-examples/mysite/webexample/views.py",
+		"/home/darya/Files/python/cgi-bin/wall.py",
+		"/home/darya/Files/python/cgi-bin/cookie.py",
+		"/home/darya/Files/python/cgi-bin/untitled",
+		"/home/darya/Files/python/index.html",
+		"/home/darya/Files/python/cgi-bin/form.py",
+		"/home/darya/Files/python/cgi-bin/hello.py",
+		"/home/darya/Files/python/cgi-bin/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ctxmngrs.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
